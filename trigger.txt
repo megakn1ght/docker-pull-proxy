@@ -1,1 +1,1 @@
-alpine:latest registry.cn-hangzhou.aliyuncs.com/megakn1ght-docker/alpine:latest
+ubuntu20.04 registry.cn-hangzhou.aliyuncs.com/megakn1ght-docker/ubuntu20.04
