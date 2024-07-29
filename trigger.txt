@@ -1,1 +1,1 @@
-ubuntu:18.04 registry.cn-hangzhou.aliyuncs.com/megakn1ght-docker/ubuntu:18.04
+ubuntu:20.04 registry.cn-hangzhou.aliyuncs.com/megakn1ght-docker/ubuntu:20.04
