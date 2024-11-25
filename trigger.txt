@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+python:3.12 registry.cn-hongkong.aliyuncs.com/megakn1ght-docker/python:3.12
