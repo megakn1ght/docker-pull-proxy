@@ -1,1 +1,1 @@
-python:3.12-slim registry.cn-hongkong.aliyuncs.com/megakn1ght-docker/python:3.12-slim
+python:3.12-slim registry.cn-hongkong.aliyuncs.com/megakn1ght-docker/python:3.12-slim 
