@@ -1,1 +1,1 @@
-ubuntu:20.04 registry.cn-hongkong.aliyuncs.com/megakn1ght-docker/ubuntu:20.04
+metacubex/mihomo:Alpha registry.cn-hongkong.aliyuncs.com/megakn1ght-docker/mihomo:Alpha
