@@ -1,1 +1,1 @@
-metacubex/mihomo:Alpha registry.cn-hangzhou.aliyuncs.com/megakn1ght-docker/mihomo:Alpha
+metacubex/mihomo:Alpha registry.cn-hangzhou.aliyuncs.com/megakn2ght/mihomo:Alpha
