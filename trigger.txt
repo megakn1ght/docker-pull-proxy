@@ -1,1 +1,1 @@
-metacubex/mihomo:Alpha registry.cn-hangzhou.aliyuncs.com/megakn2ght/mihomo:Alpha
+rustdesk/rustdesk-server:latest registry.cn-hongkong.aliyuncs.com/megakn1ght/rustdesk/rustdesk-server:latest
