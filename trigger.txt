@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest crpi-7s1k9nxproo5r1l4.cn-hongkong.personal.cr.aliyuncs.com/megakn2ght/rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/rustdesk-server:latest
