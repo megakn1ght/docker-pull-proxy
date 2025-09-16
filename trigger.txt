@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest registry.cn-hongkong.aliyuncs.com/megakn3ght/rustdesk/rustdesk-server:latest
