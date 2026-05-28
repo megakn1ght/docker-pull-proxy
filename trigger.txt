@@ -1,2 +1,1 @@
-postgres:18-alpine registry.cn-hongkong.aliyuncs.com/megakn2ght/postgres:18-alpine
-redis:8-alpine registry.cn-hongkong.aliyuncs.com/megakn2ght/redis:8-alpine
+weishaw/sub2api:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/sub2api:latest
