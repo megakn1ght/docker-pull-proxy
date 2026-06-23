@@ -1,1 +1,2 @@
-weishaw/sub2api:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/sub2api:latest
+weishaw/sub2api:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/sub2api:latest 
+docker.io/cloudflare/cloudflared:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/cloudflared:latest
