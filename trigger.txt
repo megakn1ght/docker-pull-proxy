@@ -1,2 +1,2 @@
-weishaw/sub2api:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/sub2api:latest 
-ubuntu:20.04 registry.cn-hongkong.aliyuncs.com/megakn2ght/ubuntu:20.04
+metacubex/mihomo:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/mihomo:latest
+ghcr.io/metacubex/metacubexd:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/metacubexd:latest
