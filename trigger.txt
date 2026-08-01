@@ -1,1 +1,1 @@
-weishaw/sub2api:latest registry.cn-hongkong.aliyuncs.com/megakn2ght/sub2api:latest 
+python:3.12-slim-bookworm registry.cn-hongkong.aliyuncs.com/megakn2ght/python:3.12-slim-bookworm
