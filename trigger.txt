@@ -1,1 +1,1 @@
-python:3.12-slim-bookworm registry.cn-hongkong.aliyuncs.com/megakn2ght/python:3.12-slim-bookworm
+certbot/dns-cloudflare:v5.7.0 registry.cn-hongkong.aliyuncs.com/megakn2ght/certbot-dns-cloudflare:v5.7.0
