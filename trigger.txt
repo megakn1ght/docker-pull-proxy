@@ -1,1 +1,1 @@
-certbot/dns-cloudflare:v5.7.0 registry.cn-hongkong.aliyuncs.com/megakn2ght/certbot-dns-cloudflare:v5.7.0
+nginx:1.31.8-alpine registry.cn-hongkong.aliyuncs.com/megakn2ght/nginx:1.31.8-alpine
